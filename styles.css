@@ -1,31 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
-/* * {
-    background-color: #ffddd2;
-}
-
-h1 {
-    text-align: center;
-    font-family: 'Indie Flower', cursive;
-    font-size: 4em;
-    color: #b0c4b1;
-    margin-top: auto;
-} */
-
 .chef {
     display: block;
     margin-left: auto;
     margin-right: auto;
 
 }
-
-/* button {
-    font-size: 2em;
-    font-family: 'Indie Flower', cursive;
-    font-weight: bolder;
-    background-color: #b0c4b1;
-
-} */
 
 .button-one {
     margin-left: 100px;
@@ -41,4 +21,9 @@ h1 {
 
 .button-four {
     margin-right: 100px;
+}
+
+.button-one:hover,
+.button-two:hover {
+    box-shadow: -15px 15px 0px 2.5px #006d77;
 }
