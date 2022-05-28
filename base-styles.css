@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
-/* * {
+* {
     background-color: #ffddd2;
 }
 
@@ -10,35 +10,13 @@ h1 {
     font-size: 4em;
     color: #b0c4b1;
     margin-top: auto;
-} */
-
-.chef {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
 }
 
-/* button {
+
+button {
     font-size: 2em;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
     background-color: #b0c4b1;
 
-} */
-
-.button-one {
-    margin-left: 100px;
-    margin-right: 250px;
-
-}
-
-.button-two,
-.button-three {
-    margin-right: 250px;
-}
-
-
-.button-four {
-    margin-right: 100px;
 }
